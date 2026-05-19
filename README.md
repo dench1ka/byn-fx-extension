@@ -45,7 +45,7 @@
 ### Для разработчиков (Load unpacked)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/byn-fx-extension.git
+git clone https://github.com/dench1ka/byn-fx-extension.git
 cd byn-fx-extension
 ```
 
