@@ -13,9 +13,13 @@
 <!-- Замените на реальные скриншоты после публикации -->
 
  av.by с бейджами USD 
-| ![av.by screenshot](docs/av-photo.png) 
+![av.by screenshot](docs/av-photo.png) 
+
+
 Kufar с бейджами USD
 ![kufar screenshot](docs/kufar-photo.png) 
+
+
 Popup — конвертер и курсы
 ![Popup screenshot](docs/preview.png) 
 
