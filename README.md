@@ -14,7 +14,7 @@
 
 | av.by с бейджами USD | Popup — конвертер и курсы |
 |---|---|
-| ![av.by screenshot](docs/av-page.png) | ![Popup screenshot](docs/screenshot-popup.png) |
+| ![av.by screenshot](docs/av-page.png) | ![Popup screenshot](docs/preview.png) |
 
 ---
 
