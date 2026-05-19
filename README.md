@@ -14,7 +14,7 @@
 
 | av.by с бейджами USD | Kufar с бейджами USD | Popup — конвертер и курсы |
 |---|---|
-| ![av.by screenshot](docs/av-photo.png) | [kufar screenshot](docs/kufar-photo.png) | ![Popup screenshot](docs/preview.png) |
+| ![av.by screenshot](docs/av-photo.png) | ![kufar screenshot](docs/kufar-photo.png) | ![Popup screenshot](docs/preview.png) |
 
 ---
 
