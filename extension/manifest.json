@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "description": "Конвертирует цены BYN в любую валюту по курсу Нацбанка РБ. Работает на av.by и kufar.by. Справочный инструмент для личного пользования.",
   "permissions": [
-    "storage",
-    "activeTab"
+    "storage"
   ],
   "host_permissions": [
     "https://av.by/*",
